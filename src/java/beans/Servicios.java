@@ -10,6 +10,7 @@ public class Servicios {
         this.tipoServicio = tipoServicio;
         this.nombreServicio = nombreServicio;
     }
+    // comentario de prueba
 
     public int getIdServicio() {
         return idServicio;
